@@ -14,7 +14,7 @@
   </p>
 </p>
 
-### Cara Penggunaan
+### How to use
 1. Send Get Request to https://dikdjt4qzl.execute-api.ap-southeast-1.amazonaws.com/prod/upload?name={image_name}&type={image_type} with your file and desired filename
 2. make sure input get 200 http response, example response below
 
